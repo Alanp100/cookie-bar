@@ -1,0 +1,24 @@
+.cookieBar{
+    width: 100%;
+
+
+}
+.cookieBar .text{
+    color:white;
+
+
+}
+.cookieBar .link{
+    float: left;
+
+
+}
+.cookieBar .button{
+    float: inline-end;
+    width: auto;
+    background-color: yellow;
+    border-radius: 10px;
+    font-size: 28px;
+    
+
+}
